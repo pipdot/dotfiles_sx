@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Sway (DBUS)
+Comment=An i3-compatible Wayland compositor
+Exec=dbus-run-session sway
+Type=Application
