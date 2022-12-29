@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=i3 (debug log)
+Comment=improved dynamic tiling window manager
+Exec="xinit \$(i3-with-shmlog)"
+Type=Application
+Keywords=tiling;wm;windowmanager;window;manager;
